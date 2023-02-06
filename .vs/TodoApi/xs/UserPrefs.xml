@@ -1,15 +1,19 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{77B0A3E4-00E0-4079-817E-E5E42C1B2A7A}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+﻿<Properties StartupConfiguration="{77B0A3E4-00E0-4079-817E-E5E42C1B2A7A}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/TodoContext.cs">
+    <Files>
+      <File FileName="Models/TodoContext.cs" Line="17" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TodoApi" expanded="True">
-            <Node name="TodoApi" selected="True" />
+            <Node name="TodoApi" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,4 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
